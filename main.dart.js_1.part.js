@@ -13982,6 +13982,6 @@ w($,"aHY","akE",()=>{var u=new A.KT()
 u.a=D.He
 u.ga8Y().n4(u.ga3F())
 return u})
-w($,"aK9","auC",()=>B.eX("/web/mostrar/",0,null))})()};
+w($,"aK9","auC",()=>B.eX("/home/mostrar/",0,null))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"NIRNonWfsU5eyBih+QStvMIa12k=");
+a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"DNIBA1n7Cu6XJLijZewpCRRSn8E=");
